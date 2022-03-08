@@ -1,4 +1,5 @@
 const valueName = "Veda";
-const fullName = valueName + "Srith";
-console.log(fullName,valueName);
-console.log("goodBye!")
+console.log("goodBye!");
+const fullName = valueName + "Srith_98";
+console.log(fullName);
+console.log("Hello");
